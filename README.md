@@ -11,7 +11,7 @@ Live meetings take place on Tuesdays at 1700 UTC at https://meet.google.com/sqz-
 | Week | Date | Agenda |
 |------|------|--------|
 | 1 | 2026-02-24 | [Meeting 01](agendas/2026-02-24.md) |
-| 2 | 2026-03-03 | |
+| 2 | 2026-03-03 | [Meeting 02](agendas/2026-03-03.md) |
 | 3 | 2026-03-10 | |
 | 4 | 2026-03-17 | |
 | 5 | 2026-03-24 | |
