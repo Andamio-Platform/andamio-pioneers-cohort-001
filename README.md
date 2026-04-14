@@ -16,7 +16,7 @@ Live meetings take place on Tuesdays at 1700 UTC at http://meet.google.com/srj-z
 | 4    | 2026-03-17 | [Meeting 04](agendas/2026-03-17.md) |
 | 5    | 2026-03-24 | [Meeting 05](agendas/2026-03-24.md) |
 | 6    | 2026-03-31 | [Meeting 06](agendas/2026-03-31.md) |
-| 7    | 2026-04-07 |                                     |
-| 8    | 2026-04-14 |                                     |
+| 7    | 2026-04-07 | [Meeting 07](agendas/2026-04-07.md) |
+| 8    | 2026-04-14 | [Meeting 08](agendas/2026-04-14.md) |
 | 9    | 2026-04-21 |                                     |
 | 10   | 2026-04-28 |                                     |
