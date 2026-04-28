@@ -6,7 +6,7 @@ This repository will evolve throughout the program.
 
 ## Weekly Meetings
 
-Live meetings take place on Tuesdays at 1700 UTC at http://meet.google.com/srj-zsit-nzf
+Live meetings take place on Tuesdays at 1700 UTC at https://meet.google.com/kzj-cohq-mbp
 
 | Week | Date       | Agenda                              |
 | ---- | ---------- | ----------------------------------- |
